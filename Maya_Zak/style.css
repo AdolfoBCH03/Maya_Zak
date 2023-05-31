@@ -1,4 +1,21 @@
-body{
-    background-color: aqua;
-    background: coral;
+{
+    margin:0px;
+    padding:0px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'EB Garamond', serif;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 97%;
 }
+
+.cabecera{ 
+    height: 150px;
+    width:100%;
+    background: beige;
+ }
+
+ .pie{
+    height: 1500px;
+    width:100%;
+    background: beige;
+    margin-top:350px;
+ }
